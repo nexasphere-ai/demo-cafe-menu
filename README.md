@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -254,7 +253,7 @@
   </div>
 
   <div class="powered">
-    <img alt="Nexa Sphere" src="data:image/png;base64,__LOGO__">
+    <img alt="Nexa Sphere" src="nexasphere-logo.png">
     Sample menu made by <a href="https://nexasphere-digital-craft.lovable.app/" target="_blank" rel="noopener">Nexa Sphere</a>.<br>
     Brew &amp; Bloom is a fictional café.
   </div>
